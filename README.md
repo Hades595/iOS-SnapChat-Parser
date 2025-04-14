@@ -5,6 +5,7 @@ Inspired by this article: https://xperylab.medium.com/decrypting-and-extracting-
 
 Usage:
 1. Launch Executable
+
 ![Image](image.png)
 
 2. Add Extracted Snapchat Folder from iOS device and Keychain from iOS (necessary for egocipher.key)
